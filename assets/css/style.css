@@ -1,0 +1,7 @@
+body {
+   background-repeat: no-repeat;
+   background-image: url(../images/cavebg.jpg);
+   background-size: cover;
+   background-position: 10% 20%;
+   background-color: #382E47;
+}
